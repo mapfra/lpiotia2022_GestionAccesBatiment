@@ -1,0 +1,11 @@
+format 224
+
+classcanvas 128014 class_ref 128014 // Administrateur
+  simpleclassdiagramsettings end
+  xyz 97 108 2000
+end
+classcanvas 128142 class_ref 128142 // Etudiants
+  simpleclassdiagramsettings end
+  xyz 104 240 2000
+end
+end

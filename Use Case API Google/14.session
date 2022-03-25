@@ -1,0 +1,12 @@
+window_sizes 1500 752 375 1120 600 104
+
+diagrams
+  active  usecasediagram_ref 128014 // Use Case API Google
+    1120 600 100 A0 0 0
+end
+show_stereotypes
+selected usecasediagram_ref 128014 // Use Case API Google
+open
+  usecaseview_ref 128014 // Use Case API Google
+end
+end
